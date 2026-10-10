@@ -67,6 +67,8 @@ Stødig innen 1. og 2. linje support, feilsøking og systemdrift. Setter meg ras
 
 ## Prosjekter
 
+[Digital forensic lab](https://github.com/altmulig315-netizen/digital-forensic-lab) — Notater fra Digital forensic lab ved Høyskolen Kristiania. Femfasemodellen og krav til forensisk rapport, koblet til ISO/IEC 27037, NIST SP 800-86, RFC 3227, ACPO og SWGDE.
+
 [Trusselrapporter](https://github.com/altmulig315-netizen/trusselrapporter) — Automatisert overvåking av globale trusselvurderinger. Daglig GitHub Actions-cron som poller feeds, bygger en statisk side og kjører en verifisering som blokkerer commiten hvis noe ryker.
 
 [StegAnalyzer Pro](https://github.com/altmulig315-netizen/steganalyzer) — Lokal Flask-backend for steganalyse. Kjører zsteg, steghide, binwalk, foremost og StegExpose fra nettleseren, med disk-tak som vern mot zip-bomber.
