@@ -8,7 +8,7 @@ Stødig innen 1. og 2. linje support, feilsøking og systemdrift. Setter meg ras
 
 ## Utdanning
 
-**Bachelor i cybersikkerhet, Høyskolen Kristiania (2025–)** Dyp teknisk innsikt i både offensiv og defensiv sikkerhet, med fokus på å beskytte kritisk infrastruktur. Kombinerer teori og praksis for å tette gapet mellom sårbarheter i systemer og operative sikkerhetsløsninger.
+**Bachelor i cybersikkerhet, Høyskolen Kristiania (2025–2028)** Dyp teknisk innsikt i både offensiv og defensiv sikkerhet, med fokus på å beskytte kritisk infrastruktur. Kombinerer teori og praksis for å tette gapet mellom sårbarheter i systemer og operative sikkerhetsløsninger.
 
 **Datateknologi, server- og nettverksdrift, Centric IT Academy (2021–2022)** Datamaskiners oppbygging og virkemåte, maskinvare og operativsystem. Oppsett av serversystemer for bedrifter, kvalitetssikring av leveranse, samt drift og support innen IT-sektoren.
 
