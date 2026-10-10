@@ -67,7 +67,11 @@ Stødig innen 1. og 2. linje support, feilsøking og systemdrift. Setter meg ras
 
 ## Prosjekter
 
+[Trusselrapporter](https://github.com/altmulig315-netizen/trusselrapporter) — Automatisert overvåking av globale trusselvurderinger. Daglig GitHub Actions-cron som poller feeds, bygger en statisk side og kjører en verifisering som blokkerer commiten hvis noe ryker.
+
 [StegAnalyzer Pro](https://github.com/altmulig315-netizen/steganalyzer) — Lokal Flask-backend for steganalyse. Kjører zsteg, steghide, binwalk, foremost og StegExpose fra nettleseren, med disk-tak som vern mot zip-bomber.
+
+[CTF Writeups & Verktøy](https://github.com/altmulig315-netizen/ctf-writeups) — picoCTF-writeups, forensics-metodikk og egenskrevne Python-verktøy.
 
 ---
 
